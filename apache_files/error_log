@@ -1,0 +1,5 @@
+[Fri Jul 29 18:50:14.548216 2022] [suexec:notice] [pid 8] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Jul 29 18:50:14.567353 2022] [lbmethod_heartbeat:notice] [pid 8] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 29 18:50:14.570418 2022] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.6 (CentOS) configured -- resuming normal operations
+[Fri Jul 29 18:50:14.570450 2022] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
